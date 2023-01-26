@@ -1,4 +1,3 @@
 Hi developers.
-CTO at princelab.
-front-end designer for app and web applicaiton.
+I'm a UI/UX designer for app, web and desktop applicaiton.
 Illustration and coding is the fuel for me.
